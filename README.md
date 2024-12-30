@@ -1,4 +1,4 @@
-# PRODIGY_WD_01
+# Interactive Navigation Menu
 
 ## Description
 - This project creates an interactive navigation menu using HTML, CSS, and JavaScript.
